@@ -1,1 +1,1 @@
-# My practic using three js
+# My practic using javascript and three js
